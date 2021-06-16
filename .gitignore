@@ -17,4 +17,4 @@ lua
 
 bin/*
 intermediate-files/*
-.vcxproj
+*.vcxproj*
